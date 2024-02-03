@@ -31,6 +31,7 @@ Along with the lecture slides, we can also refer to the resources below:
 
 2.  Word2Vec:
 
-    - YT: [Word Embeddings - EXPLAINED!](https://www.youtube.com/watch?v=GmXkCCa4eVA)
+    - YT: [Word2Vec, GloVe, FastText- EXPLAINED!](https://www.youtube.com/watch?v=9S0-OC4LFNo)
     - YT: [Word2Vec Detailed Explanation, Train custom Word2Vec Model using genism in Python](https://www.youtube.com/watch?v=MtM9QrCjuK4)
     - YT: [Coding Word2Vec : Natural Language Processing](https://www.youtube.com/watch?v=d2E-pU4H2gc)
+    - Extra, YT: [Word Embeddings - EXPLAINED!](https://www.youtube.com/watch?v=GmXkCCa4eVA)
