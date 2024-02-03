@@ -9,6 +9,10 @@ Text as data:
 Python Version: 3.7.16
 Scikit-learn versions that are supported: 0.20 to 0.24 and 1.0, 1.0.1, and 1.0.2
 
+To install the packages:
+```
+pip install -r requirements.txt
+```
 
 Ad-hoc materials:
 
