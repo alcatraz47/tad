@@ -35,3 +35,9 @@ Along with the lecture slides, we can also refer to the resources below:
     - YT: [Word2Vec Detailed Explanation, Train custom Word2Vec Model using genism in Python](https://www.youtube.com/watch?v=MtM9QrCjuK4)
     - YT: [Coding Word2Vec : Natural Language Processing](https://www.youtube.com/watch?v=d2E-pU4H2gc)
     - Extra, YT: [Word Embeddings - EXPLAINED!](https://www.youtube.com/watch?v=GmXkCCa4eVA)
+
+3.  Doc2Vec:
+
+    - Blog: [How to Vectorize Text in DataFrames for NLP Tasks — 3 Simple Techniques](https://towardsdatascience.com/how-to-vectorize-text-in-dataframes-for-nlp-tasks-3-simple-techniques-82925a5600db)
+    - Blog: [Practical Guide To Doc2Vec & How To Tutorial In Python](https://spotintelligence.com/2023/09/06/doc2vec/)
+    - Blog: [Multi-Class Text Classification with Doc2Vec & Logistic Regression](https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4)
