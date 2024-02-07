@@ -17,7 +17,8 @@ pip install -r requirements.txt
 Ad-hoc materials:
 
 Along with the lecture slides, we can also refer to the resources below:
-
+0. Text Processing:
+-    Blog: [Jaccard vs Cosine Distance](https://towardsdatascience.com/overview-of-text-similarity-metrics-3397c4601f50)
 1.  Topic Modelling:
 
 - Data Pre-processing for Topic Modelling:
