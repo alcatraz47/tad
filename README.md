@@ -21,6 +21,7 @@ Along with the lecture slides, we can also refer to the resources below:
 0.  Text Processing:
 
 -    Blog: [Jaccard vs Cosine Distance](https://towardsdatascience.com/overview-of-text-similarity-metrics-3397c4601f50)
+-    Blog: [Understanding the Levenshtein Distance Equation](https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0)
 
 1.  Topic Modelling:
 
