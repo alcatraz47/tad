@@ -26,8 +26,11 @@ Along with the lecture slides, we can also refer to the resources below:
 
 1.  Fundamentals:
 -    Blog: [TF-IDF](https://medium.com/analytics-vidhya/understanding-calculation-of-tf-idf-by-example-8975304e7fc4)
--    Blog: [Zipf's Law](https://medium.com/@_init_/using-zipfs-law-to-improve-neural-language-models-4c3d66e6d2f6)
--    YT: [Zipf's Law](https://youtu.be/WYO8Rc4JB_Y?si=W80TjSPD-PpTKx-m)
+
+- Zipf's Law:
+    - Blog: [Zipf's Law](https://medium.com/@_init_/using-zipfs-law-to-improve-neural-language-models-4c3d66e6d2f6)
+    - YT: [Zipf's Law](https://youtu.be/WYO8Rc4JB_Y?si=W80TjSPD-PpTKx-m)
+    
 -    YT: [Heaps' law](https://youtu.be/QwV-aCaWKq8?si=Hcu86mPsqPlSSXNK)
 
 2.  Topic Modelling:
