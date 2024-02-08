@@ -24,7 +24,11 @@ Along with the lecture slides, we can also refer to the resources below:
 -    Blog: [Understanding the Levenshtein Distance Equation](https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0)
 -    Blog: [Stemming vs Lemmatization](https://databasecamp.de/en/data/stemming-lemmatization)
 
-1.  Topic Modelling:
+1.  Fundamentals:
+-    Blog: [TF-IDF](https://medium.com/analytics-vidhya/understanding-calculation-of-tf-idf-by-example-8975304e7fc4)
+-    Blog: [Zipf's Law](https://medium.com/@_init_/using-zipfs-law-to-improve-neural-language-models-4c3d66e6d2f6)
+
+2.  Topic Modelling:
 
 - Data Pre-processing for Topic Modelling:
     - Blog: [NLP Preprocessing and Latent Dirichlet Allocation (LDA) Topic Modeling with Gensim](https://towardsdatascience.com/nlp-preprocessing-and-latent-dirichlet-allocation-lda-topic-modeling-with-gensim-713d516c6c7d)
@@ -35,14 +39,14 @@ Along with the lecture slides, we can also refer to the resources below:
     - Blog: [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
 
 
-2.  Word2Vec:
+3.  Word2Vec:
 
     - YT: [Word2Vec, GloVe, FastText- EXPLAINED!](https://www.youtube.com/watch?v=9S0-OC4LFNo)
     - YT: [Word2Vec Detailed Explanation, Train custom Word2Vec Model using genism in Python](https://www.youtube.com/watch?v=MtM9QrCjuK4)
     - YT: [Coding Word2Vec : Natural Language Processing](https://www.youtube.com/watch?v=d2E-pU4H2gc)
     - Extra, YT: [Word Embeddings - EXPLAINED!](https://www.youtube.com/watch?v=GmXkCCa4eVA)
 
-3.  Doc2Vec:
+4.  Doc2Vec:
 
     - Blog: [How to Vectorize Text in DataFrames for NLP Tasks — 3 Simple Techniques](https://towardsdatascience.com/how-to-vectorize-text-in-dataframes-for-nlp-tasks-3-simple-techniques-82925a5600db)
     - Blog: [Practical Guide To Doc2Vec & How To Tutorial In Python](https://spotintelligence.com/2023/09/06/doc2vec/)
