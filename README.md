@@ -56,6 +56,8 @@ Along with the lecture slides, we can also refer to the resources below:
 4.  Word2Vec:
 
     - YT: [Word2Vec, GloVe, FastText- EXPLAINED!](https://www.youtube.com/watch?v=9S0-OC4LFNo)
+    - YT: [Word Vector Representations: word2vec](https://youtu.be/ERibwqs9p38?si=ju1Wsf7oHd1XV8m5)
+    - YT: [GloVe: Global Vectors for Word Representation](https://youtu.be/ASn7ExxLZws?si=Ikz2MIXw4xDWF99F)
     - YT: [Word2Vec Detailed Explanation, Train custom Word2Vec Model using genism in Python](https://www.youtube.com/watch?v=MtM9QrCjuK4)
     - YT: [Coding Word2Vec : Natural Language Processing](https://www.youtube.com/watch?v=d2E-pU4H2gc)
     - YT: [Word Embedding and Word2Vec, Clearly Explained!!!](https://www.youtube.com/watch?v=viZrOnJclY0&list=PLsrpjPHm_EOo8LhK8JOAqbqNxy-Rd53sE)
