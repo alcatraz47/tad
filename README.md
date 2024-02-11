@@ -24,13 +24,13 @@ Along with the lecture slides, we can also refer to the resources below:
 
 1.  Text Processing:
 
--    Blog: [Jaccard vs Cosine Distance](https://towardsdatascience.com/overview-of-text-similarity-metrics-3397c4601f50)
--    Blog: [Understanding the Levenshtein Distance Equation](https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0)
--    Blog: [Stemming vs Lemmatization](https://databasecamp.de/en/data/stemming-lemmatization)
+    - Blog: [Jaccard vs Cosine Distance](https://towardsdatascience.com/overview-of-text-similarity-metrics-3397c4601f50)
+    - Blog: [Understanding the Levenshtein Distance Equation](https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0)
+    - Blog: [Stemming vs Lemmatization](https://databasecamp.de/en/data/stemming-lemmatization)
 
 2.  Fundamentals:
 
--    Blog: [TF-IDF](https://medium.com/analytics-vidhya/understanding-calculation-of-tf-idf-by-example-8975304e7fc4)
+    - Blog: [TF-IDF](https://medium.com/analytics-vidhya/understanding-calculation-of-tf-idf-by-example-8975304e7fc4)
 
 - Zipf's Law:
 
@@ -41,13 +41,13 @@ Along with the lecture slides, we can also refer to the resources below:
 
 3.  Topic Modelling:
 
-- Data Pre-processing for Topic Modelling:
-    - Blog: [NLP Preprocessing and Latent Dirichlet Allocation (LDA) Topic Modeling with Gensim](https://towardsdatascience.com/nlp-preprocessing-and-latent-dirichlet-allocation-lda-topic-modeling-with-gensim-713d516c6c7d)
+    - Data Pre-processing for Topic Modelling:
+        - Blog: [NLP Preprocessing and Latent Dirichlet Allocation (LDA) Topic Modeling with Gensim](https://towardsdatascience.com/nlp-preprocessing-and-latent-dirichlet-allocation-lda-topic-modeling-with-gensim-713d516c6c7d)
 
-- LDA:
-    - YT: [Latent Dirichlet Allocation (Part 1 of 2)](https://www.youtube.com/watch?v=T05t-SqKArY)
-    - YT: [Training Latent Dirichlet Allocation: Gibbs Sampling (Part 2 of 2)](https://www.youtube.com/watch?v=BaM1uiCpj_E)
-    - Blog: [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
+    - LDA:
+        - YT: [Latent Dirichlet Allocation (Part 1 of 2)](https://www.youtube.com/watch?v=T05t-SqKArY)
+        - YT: [Training Latent Dirichlet Allocation: Gibbs Sampling (Part 2 of 2)](https://www.youtube.com/watch?v=BaM1uiCpj_E)
+        - Blog: [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
 
 4.  Word2Vec:
 
