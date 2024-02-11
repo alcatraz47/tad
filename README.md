@@ -5,8 +5,12 @@ Text as data:
     - pre-processing;
     - post processing:
     - Topic Modelling: LDA, seeded LDA
+    - Word2Vec and other static embedding
+    - RNN, LSTM, and Seq2Seq
+    - Attention and Transformers
 ```
 Python Version: 3.7.16
+
 Scikit-learn versions that are supported: 0.20 to 0.24 and 1.0, 1.0.1, and 1.0.2
 
 To install the packages:
@@ -20,7 +24,7 @@ Along with the lecture slides, we can also refer to the resources below:
 
 0. Speech and Language Processing:
 
--   Book: [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
+    - Book: [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
 
 1.  Text Processing:
 
@@ -77,3 +81,4 @@ Along with the lecture slides, we can also refer to the resources below:
     - YT: [What is Transformer Models and how do they work?](https://youtu.be/qaWMOYf4ri8?si=ziuii-e4Bt3wtu75)
     - YT: [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY&list=PLsrpjPHm_EOo8LhK8JOAqbqNxy-Rd53sE&index=6)
     - YT:[Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!](https://www.youtube.com/watch?v=bQ5BoolX9Ag&list=PLsrpjPHm_EOo8LhK8JOAqbqNxy-Rd53sE&index=7)
+    - Blog: [A Gentle Introduction to Positional Encoding in Transformer Models, Part 1](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
