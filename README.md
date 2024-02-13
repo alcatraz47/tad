@@ -41,9 +41,13 @@ Along with the lecture slides, we can also refer to the resources below:
         - YT: [Zipf's Law](https://youtu.be/WYO8Rc4JB_Y?si=W80TjSPD-PpTKx-m)
 
     - Heaps' Law:
-        -YT: [Heaps' law](https://youtu.be/QwV-aCaWKq8?si=Hcu86mPsqPlSSXNK)
+        - YT: [Heaps' law](https://youtu.be/QwV-aCaWKq8?si=Hcu86mPsqPlSSXNK)
 
-3.  Topic Modelling:
+3.  Clustering:
+    - LSA:
+        - YT: [LSA](https://www.youtube.com/watch?v=bzNch-dBCN8)
+
+4.  Topic Modelling:
 
     - Data Pre-processing for Topic Modelling:
         - Blog: [NLP Preprocessing and Latent Dirichlet Allocation (LDA) Topic Modeling with Gensim](https://towardsdatascience.com/nlp-preprocessing-and-latent-dirichlet-allocation-lda-topic-modeling-with-gensim-713d516c6c7d)
@@ -53,7 +57,7 @@ Along with the lecture slides, we can also refer to the resources below:
         - YT: [Training Latent Dirichlet Allocation: Gibbs Sampling (Part 2 of 2)](https://www.youtube.com/watch?v=BaM1uiCpj_E)
         - Blog: [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
 
-4.  Word2Vec:
+5.  Word2Vec:
 
     - YT: [Word2Vec, GloVe, FastText- EXPLAINED!](https://www.youtube.com/watch?v=9S0-OC4LFNo)
     - YT: [Word Vector Representations: word2vec](https://youtu.be/ERibwqs9p38?si=ju1Wsf7oHd1XV8m5)
@@ -63,19 +67,19 @@ Along with the lecture slides, we can also refer to the resources below:
     - YT: [Word Embedding and Word2Vec, Clearly Explained!!!](https://www.youtube.com/watch?v=viZrOnJclY0&list=PLsrpjPHm_EOo8LhK8JOAqbqNxy-Rd53sE)
     - Extra, YT: [Word Embeddings - EXPLAINED!](https://www.youtube.com/watch?v=GmXkCCa4eVA)
 
-5.  Doc2Vec:
+6.  Doc2Vec:
 
     - Blog: [How to Vectorize Text in DataFrames for NLP Tasks — 3 Simple Techniques](https://towardsdatascience.com/how-to-vectorize-text-in-dataframes-for-nlp-tasks-3-simple-techniques-82925a5600db)
     - Blog: [Practical Guide To Doc2Vec & How To Tutorial In Python](https://spotintelligence.com/2023/09/06/doc2vec/)
     - Blog: [Multi-Class Text Classification with Doc2Vec & Logistic Regression](https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4)
 
-6. RNN and LSTM:
+7. RNN and LSTM:
 
     - YT: [Recurrent Neural Networks (RNNs), Clearly Explained!!!](https://youtu.be/AsNTP8Kwu80?si=NvOjXqcrFOdl889r)
     - YT:[Long Short-Term Memory (LSTM), Clearly Explained](https://www.youtube.com/watch?v=YCzL96nL7j0&list=PLsrpjPHm_EOo8LhK8JOAqbqNxy-Rd53sE&index=3)
     - YT: [Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=L8HKweZIOmg&list=PLsrpjPHm_EOo8LhK8JOAqbqNxy-Rd53sE&index=4)
 
-7. Attention and Transformers:
+8. Attention and Transformers:
 
     - YT: [The Attention Mechanism in LLMs a High Level Overview](https://youtu.be/OxCpWwDCDFQ?si=YiY5Q7hQ357H0uPe)
     - YT: [The math behind Attention: Keys, Queries, and Values matrices](https://youtu.be/UPtG_38Oq8o?si=8YP0WpZDf4hNmuYp)
