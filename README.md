@@ -33,6 +33,7 @@ Along with the lecture slides, we can also refer to the resources below:
     - Blog: [Stemming vs Lemmatization](https://databasecamp.de/en/data/stemming-lemmatization)
 
 2.  Fundamentals:
+
     - Tf-IDf:
         - Blog: [TF-IDF](https://medium.com/analytics-vidhya/understanding-calculation-of-tf-idf-by-example-8975304e7fc4)
 
@@ -44,6 +45,12 @@ Along with the lecture slides, we can also refer to the resources below:
         - YT: [Heaps' law](https://youtu.be/QwV-aCaWKq8?si=Hcu86mPsqPlSSXNK)
 
 3.  Clustering:
+
+    - SVD:
+        - Basics, YT: [Singular Value Decomposition (the SVD)](https://www.youtube.com/watch?v=mBcLRGuAFUk)
+        - Mathematical Overview: YT: [Singular Value Decomposition (SVD): Mathematical Overview](https://www.youtube.com/watch?v=nbBvuuNVfco)
+        - High Level Overview, YT: [Singular Value Decomposition (SVD): Overview](https://www.youtube.com/watch?v=gXbThCXjZFM)
+
     - LSA:
         - YT: [LSA](https://www.youtube.com/watch?v=bzNch-dBCN8)
 
