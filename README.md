@@ -25,6 +25,7 @@ Along with the lecture slides, we can also refer to the resources below:
 0. Speech and Language Processing:
 
     - Book: [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
+    - Book: [Machine Learning for Text by Charu C. Aggarwal](https://link.springer.com/book/10.1007/978-3-319-73531-3)
 
 1.  Text Processing:
 
@@ -48,8 +49,9 @@ Along with the lecture slides, we can also refer to the resources below:
 
     - SVD:
         - Basics, YT: [Singular Value Decomposition (the SVD)](https://www.youtube.com/watch?v=mBcLRGuAFUk)
-        - Mathematical Overview: YT: [Singular Value Decomposition (SVD): Mathematical Overview](https://www.youtube.com/watch?v=nbBvuuNVfco)
         - High Level Overview, YT: [Singular Value Decomposition (SVD): Overview](https://www.youtube.com/watch?v=gXbThCXjZFM)
+        - Mathematical Overview: YT: [Singular Value Decomposition (SVD): Mathematical Overview](https://www.youtube.com/watch?v=nbBvuuNVfco)
+        - Rank R Approximation, YT: [Singular Value Decomposition (SVD): Matrix Approximation](https://www.youtube.com/watch?v=xy3QyyhiuY4)
 
     - LSA:
         - YT: [LSA](https://www.youtube.com/watch?v=bzNch-dBCN8)
