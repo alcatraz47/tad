@@ -65,6 +65,7 @@ Along with the lecture slides, we can also refer to the resources below:
         - YT: [Latent Dirichlet Allocation (Part 1 of 2)](https://www.youtube.com/watch?v=T05t-SqKArY)
         - YT: [Training Latent Dirichlet Allocation: Gibbs Sampling (Part 2 of 2)](https://www.youtube.com/watch?v=BaM1uiCpj_E)
         - Blog: [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
+        - YT: [LDA Plate Notation](https://www.youtube.com/watch?v=nVWqecgxKFM)
 
 5.  Word2Vec:
 
